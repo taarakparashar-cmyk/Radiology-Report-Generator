@@ -4,7 +4,7 @@ This project uses a frontal chest X-ray to draft the Findings and Impression sec
 
 Dataset and notebook
 
-Download and extract Chest X-rays (Indiana University) on Kaggle.
+Download and extract [Chest X-rays (Indiana University) on Kaggle.](https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university)
 
 Keep the image folders alongside indiana_reports.csv and indiana_projections.csv. The projections table links each image filename and view to a study, and the reports table supplies its reference text.
 
